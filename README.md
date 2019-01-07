@@ -1,2 +1,0 @@
-# test
-daidaiworm's test
